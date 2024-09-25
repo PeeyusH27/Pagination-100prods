@@ -1,4 +1,4 @@
-# React + Vite
+Used dummy Json data for revising the concept of pagination by listing 100+ products limiting 10 products on each page.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
